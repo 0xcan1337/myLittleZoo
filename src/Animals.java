@@ -90,7 +90,7 @@ public class Animals {
     }
 
     public void callIt(){
-        String gender = getAnimalGender() ? "boy!" : "baby!";
+        String gender = getAnimalGender() ? "boy!" : "girl!";
         System.out.println("Tsskk, " + getName() + " come here my " +gender);
 
 
